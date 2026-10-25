@@ -1,4 +1,4 @@
-# Smart To-do List with Automated Email Reminders Project
+# Smart To-do List with Automated Email Reminders
 
 ## About
 A Python-based task management application that uses SQLite to store tasks and SMTP to send email reminders before deadlines.
